@@ -24,7 +24,5 @@ Go on the localhost to see the project and play with it.
 Thanks!!
 
 Build with care
-Regards
-
 
 
