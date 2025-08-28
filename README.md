@@ -1,7 +1,7 @@
 # React + Vite
 
 Here's a project of todo list implemented using react(vite bundler) and core javascript.
-React gives Fundamental usecases of the components for fast refreshing 
+React gives Fundamental usecases of the components for fast refreshing.
 
 ### Here's a snapshot of the UI how it looks and behaves->
 
@@ -9,7 +9,7 @@ React gives Fundamental usecases of the components for fast refreshing
 <img width="1500" height="920" alt="Screenshot 2025-08-28 183947" src="https://github.com/user-attachments/assets/0d0d9de8-9c8e-434f-a7ca-d4f15be9eb8e" />
 
 
-For experiencing the same thing in your pc clone this repo and make sure vite is installed as well as javascript environment and react libraries 
+For experiencing the same thing in your pc clone this repo and make sure vite is installed as well as javascript environment and react libraries.
 
 To navigate
 ```bash
@@ -19,7 +19,12 @@ To run
 ```bash
 npm run dev
 ```
-Go on the localhost to see the project 
+Go on the localhost to see the project and play with it.
+
+Thanks!!
+
+Build with care
+Regards
 
 
 
